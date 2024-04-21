@@ -6,5 +6,5 @@ In this paper, we propose a new method for generating high-quality morphing atta
 # Block diagram
   <div align="center">
   <img src="images/morphing.png" alt="Image Description">
-  <p><em>a) Training and validation accuracy b) Training and validation loss</em></p>
+  <p><em>Block diagram of the proposed MLSD-GAN for generating high quality morphed face images</em></p>
 </div>
