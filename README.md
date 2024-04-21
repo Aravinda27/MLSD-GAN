@@ -4,5 +4,5 @@ In this paper, we propose a new method for generating high-quality morphing atta
 # Requirements 
     python >=3.6, pytorch==1.5.0 torchvision==0.6.0
 # Block diagram
-    ![Block diagram](https://github.com/Aravinda27/MLSD-GAN/blob/main/images/morphing.png)
+     (https://github.com/Aravinda27/MLSD-GAN/blob/main/images/morphing.png)
      Block diagram of the proposed MLSD-GAN for generating high quality morphed face images
