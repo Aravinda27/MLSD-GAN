@@ -20,10 +20,15 @@ f) Morrdiff g) Proposed method</em></p>
     bash run.sh
 
 # Download the FRGC dataset
- For FRGC dataset prior permission is required and official download request need to be sent to this email cvrl@nd.edu
+ For FRGC dataset prior permission is required and official download request need to be sent to this email along with signed agreement to cvrl@nd.edu.
  Note: Database is should be used only for research and academic purpose.
 
  
  For testing your own image, you need to invert the image to the StyleGAN's latent space using [pSp](https://github.com/eladrich/pixel2style2pixel) for getting the corresponding latent code, and get the face 
  parsing using [BiSeNet](https://github.com/zllrunning/face-parsing.PyTorch), and get the landmark using [H3R](https://github.com/baoshengyu/H3R) and for post processing use [codeformer](https://github.com/sczhou/CodeFormer)
+
+
+# This code is heavily borrowed from 
+- [FSLSD](https://github.com/cnnlstm/FSLSD_HiRes)
+- for CELEBA-HQ-1024.pt file you need to contact [FSLSD](https://github.com/cnnlstm/FSLSD_HiRes)
 
