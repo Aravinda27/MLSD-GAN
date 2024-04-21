@@ -4,7 +4,7 @@ In this paper, we propose a new method for generating high-quality morphing atta
 # Requirements 
     python >=3.6, pytorch==1.5.0 torchvision==0.6.0
 # Block diagram
-     <div align="center">
+  <div align="center">
   <img src="images/morphing.png" alt="Image Description">
   <p><em>a) Training and validation accuracy b) Training and validation loss</em></p>
 </div>
