@@ -3,3 +3,6 @@ Face-morphing attacks are a growing concern for biometric researchers, as they c
 In this paper, we propose a new method for generating high-quality morphing attacks using StyleGAN disentanglement. Our approach, called MLSD-GAN, spherically interpolates the disentangled latents to produce realistic and diverse morphing attacks. We evaluate the vulnerability of MLSD-GAN on two deep-learning-based FRS techniques. The results show that MLSD-GAN poses a significant threat to FRS, as it can generate morphing attacks that are highly effective at fooling these systems.
 # Requirements 
     python >=3.6, pytorch==1.5.0 torchvision==0.6.0
+# Block diagram
+    ![Block diagram](https://github.com/Aravinda27/MLSD-GAN/blob/main/images/morphing.png)
+     Block diagram of the proposed MLSD-GAN for generating high quality morphed face images
