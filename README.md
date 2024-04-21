@@ -21,4 +21,7 @@ f) Morrdiff g) Proposed method</em></p>
 
 # Download the FRGC dataset
  For FRGC dataset prior permission is required and official download request need to be sent to this email cvrl@nd.edu
+ Note: Database is should be used only for research and academic purpose.
+ For testing your own image, you need to invert the image to the StyleGAN's latent space using pSp for getting the corresponding latent code, and get the face 
+ parsing using BiSeNet, and get the landmark using H3R and for post processing use ![codeformer](https://github.com/sczhou/CodeFormer)
 
