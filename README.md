@@ -16,3 +16,9 @@ In this paper, we propose a new method for generating high-quality morphing atta
 f) Morrdiff g) Proposed method</em></p>
 </div>
 
+# Run the inference code
+    bash run.sh
+
+# Download the FRGC dataset
+ For FRGC dataset prior permission is required and official download request need to be sent to this email cvrl@nd.edu
+
