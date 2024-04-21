@@ -25,5 +25,5 @@ f) Morrdiff g) Proposed method</em></p>
 
  
  For testing your own image, you need to invert the image to the StyleGAN's latent space using [pSp](https://github.com/eladrich/pixel2style2pixel) for getting the corresponding latent code, and get the face 
- parsing using [BiSeNet] (https://github.com/zllrunning/face-parsing.PyTorch), and get the landmark using [H3R](https://github.com/baoshengyu/H3R) and for post processing use [codeformer](https://github.com/sczhou/CodeFormer)
+ parsing using [BiSeNet](https://github.com/zllrunning/face-parsing.PyTorch), and get the landmark using [H3R](https://github.com/baoshengyu/H3R) and for post processing use [codeformer](https://github.com/sczhou/CodeFormer)
 
