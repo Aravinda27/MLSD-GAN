@@ -8,3 +8,11 @@ In this paper, we propose a new method for generating high-quality morphing atta
   <img src="images/morphing.png" alt="Image Description">
   <p><em>Block diagram of the proposed MLSD-GAN for generating high quality morphed face images</em></p>
 </div>
+
+# Quantitative results
+  <div align="center">
+  <img src="images/face_detect.png" alt="Image Description">
+  <p><em> Qualitative results of the proposed MLSD-GAN with existing methods a) Landmarks-I b) Landmarks-II, c) StyleGAN, d) MIPGAN-1 e) MIPGAN-II,
+f) Morrdiff g) Proposed method</em></p>
+</div>
+
