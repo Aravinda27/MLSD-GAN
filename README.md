@@ -31,4 +31,24 @@ f) Morrdiff g) Proposed method</em></p>
 # This code is heavily borrowed from 
 - [FSLSD](https://github.com/cnnlstm/FSLSD_HiRes)
 - for CELEBA-HQ-1024.pt file you need to contact [FSLSD](https://github.com/cnnlstm/FSLSD_HiRes)
+# Citation
+@inproceedings{pn2023mlsd,  
+title={MLSD-GAN-Generating Strong High Quality Face Morphing Attacks Using Latent Semantic Disentanglement},  
+author={PN, Aravinda Reddy and Ramachandra, Raghavendra and Rao, Krothapalli Sreenivasa and Mitra, Pabitra},  
+booktitle={2023 IEEE International Conference on Computer Vision and Machine Intelligence (CVMI)},  
+year={2023},  
+volume={1},  
+pages={1--6}  
+organization={IEEE}  
+}
+
+
+# Check out our new morphing method using diffusion models
+[MorCode](https://github.com/Aravinda27/MorCode)
+
+
+
+
+
+
 
